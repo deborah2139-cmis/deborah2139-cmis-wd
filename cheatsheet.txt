@@ -1,0 +1,7 @@
+ls: list
+cd deborah2139-cmis-wd: going in
+gedit LICENSE/README.md: go to file
+clone: git clone --config="http.proxy=http://deborah2139:munsuk03@192.168.2.1:8080" https://github.com/deborah2139-cmis/deborah2139-cmis-wd.git
+commiting: git commit -m "Added changes to (filename) "
+push: git push, username, password
+cd ..: go back to home
