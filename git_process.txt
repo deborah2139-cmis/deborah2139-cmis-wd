@@ -1,0 +1,18 @@
+Open terminal which is a black icon between a desktop and a chrome icon in the bar down the screen.
+Clone your repository by typing: git clone --config="http.proxy=http://username-of-your-network:password-of-your-network@192.168.2.1:8080" https://url-to-your-repository
+Press enter
+Type: cd your-repository-name
+Press enter
+Type: gedit the-name-of-the-file-you-want-to-create
+Press enter and the file will show up.
+Type things that you want to type in the file your just created
+Hit the button where it says "file" in the upper part of your file
+Then press the "save" button.
+Go back to terminal and type: git add the-name-of-the-file-you-created
+Press enter and the file will be added into your github.
+Type: git commit -m "Commit comment"
+Press enter and the file will be committed and it will show your lists of words in ternimal.
+Type: git push
+It will tell you to type your username for github, then you type your username.
+After you hit the enter, it will tell you to type the password so type the password for your github, and it will list out something for you.
+You are done.
