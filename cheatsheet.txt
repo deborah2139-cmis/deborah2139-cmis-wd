@@ -6,3 +6,11 @@ commiting: git commit -m "Added changes to (filename) "
 push: git push, username, password
 cd ..: go back to home
 python -m SimpleHTTPServer: starting a server
+rm: remove
+rm *: remove everything
+rm *.txt: remove all txt files
+put: upload
+put *.txt: upload all txt files
+ls *: list everything
+!ls *.txt: list all txt files
+!ls: list files in sftp
