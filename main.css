@@ -1,13 +1,29 @@
 h1{
 	color:saddlebrown;
-	font-family:gothic;
+	border-style:ridge;
+	border-color:rosybrown;
+	font-size:35px;
+	font-family:"lucida sans unicode", sans-serif;
 }
 h2{
 	color:sienna;
+	font-family:"lucida sans unicode", sans-serif;
 }
 p{
 	color:peru;
+	font-family:"lucida sans unicode", sans-serif;
+
 }
 footer{
 	color:brown;
+	font-family:"lucida sans unicode", sans-serif;
+}
+body{
+	background-color:ivory;
+
+}
+html{
+	border-style:ridge;
+	border-color:rosybrown;
+	border-width:5px;
 }
