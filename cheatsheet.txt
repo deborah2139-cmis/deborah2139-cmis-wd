@@ -14,3 +14,5 @@ put *.txt: upload all txt files
 ls *: list everything
 !ls *.txt: list all txt files
 !ls: list files in sftp
+sftp deborah2139@cmis-hsteacher: going in to the teacher's computer
+cd public_html: go in to the file

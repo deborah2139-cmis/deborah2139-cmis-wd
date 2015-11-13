@@ -23,31 +23,43 @@ h1{
 	background-color:beige;
 }
 h2{
-	color:sandybrown;
+	border-style:dashed;
+	border-color:pink;
+	border-width:5px;
+}
+h3{
+	color:lightsalmon;
 	font-family:"Comis Sans MS", cursive, sans-serif;
 	border-style:inset;
 	border-color:salmon;
 	background-color:lightcyan;
-	border-width:4px;
+	border-width:5px;
 	font-size:30px;
+}
+h4{
+	border-style:dashed;
+	border-color:plum;
+	border-width:5px;
 }
 p{
 	color:peru;
 	font-family:"Courier New", Courier, monospace;
-	border-style:dotted double;
+	border-style:double;
 	border-color:lightcoral;
-	border-width:4px;
+	border-width:5px;
 	background-color:lavenderblush;
 	font-size:25px;
-
+	font-weight:bold;
 }
+
 footer{
-	color:brown;
+	color:indianred;
 	font-family:"lucida sans unicode", sans-serif;
 	border-style:dotted;
-	border-width:4px;
+	border-width:5px;
+	border-color:brown;
 	background-color:lavender;
-	font-size:20px;
+	font-size:19px;
 }
 body{
 	background-color:ivory;
@@ -56,5 +68,5 @@ body{
 html{
 	border-style:double groove;
 	border-color:rosybrown;
-	border-width:15px;
+	border-width:16px;
 }
