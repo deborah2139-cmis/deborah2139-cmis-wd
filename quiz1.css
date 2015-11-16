@@ -1,0 +1,17 @@
+h1{
+	color:yellow;
+	border-color:yellow;
+	border-bottom-style:dashed;
+	background-color:green;
+	font-family:impact, charcoal, sans-serif;
+	font-style:italic;
+}
+h2{
+	color:blue;
+	border-color:yellow
+	border-bottom-style:dashed;
+	background-color:red;
+	font-family:impact, charcoal, sans-serif;
+	font-style:italic
+	border-width:30px;
+}
