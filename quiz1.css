@@ -12,6 +12,9 @@ h2{
 	border-bottom-style:dashed;
 	background-color:red;
 	font-family:impact, charcoal, sans-serif;
-	font-style:italic
+	font-style:italic;
 	border-width:30px;
+}
+footer{
+	color:blue;
 }
