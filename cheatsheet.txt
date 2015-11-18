@@ -5,7 +5,7 @@ clone: git clone --config="http.proxy=http://deborah2139:munsuk03@192.168.2.1:80
 commiting: git commit -m "Added changes to (filename) "
 push: git push, username, password
 cd ..: go back to home
-python -m SimpleHTTPServer: starting a server
+python -m SimpleHTTPServer: starting a development server
 rm: remove
 rm *: remove everything
 rm *.txt: remove all txt files
@@ -15,4 +15,10 @@ ls *: list everything
 !ls *.txt: list all txt files
 !ls: list files in sftp
 sftp deborah2139@cmis-hsteacher: going in to the teacher's computer
-cd public_html: go in to the file
+cd public_html: go in to the file MUST DO THIS
+localhost:8000/thing.html:going into the thing inside the index.html file
+localhost:8000/l+l/: going into the thing in the folder that is inside the index.html file
+localhost:8000/ : production server
+rmdir list and links: remove
+mkdir list and links: make the directory
+cd listandlinks/: inside the public_html file
