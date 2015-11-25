@@ -23,11 +23,6 @@ h1{
 	background-color:beige;
 }
 h2{
-	border-style:dashed;
-	border-color:pink;
-	border-width:5px;
-}
-h3{
 	color:lightsalmon;
 	font-family:"Comis Sans MS", cursive, sans-serif;
 	border-style:inset;
@@ -35,11 +30,6 @@ h3{
 	background-color:lightcyan;
 	border-width:5px;
 	font-size:30px;
-}
-h4{
-	border-style:dashed;
-	border-color:plum;
-	border-width:5px;
 }
 p{
 	color:peru;
