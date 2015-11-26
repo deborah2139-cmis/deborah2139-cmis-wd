@@ -22,3 +22,5 @@ localhost:8000/ : production server
 rmdir list and links: remove
 mkdir list and links: make the directory
 cd listandlinks/: inside the public_html file
+<tr colspan="#">: expanding the collumn
+<tr rowspan="#">: expanding rows
