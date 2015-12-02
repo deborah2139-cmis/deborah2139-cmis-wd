@@ -60,3 +60,11 @@ html{
 	border-color:rosybrown;
 	border-width:16px;
 }
+ol{
+	border-style:solid;
+	border-color:palevioletred;
+}
+li{
+	font-family:"lucida sans unicode", sans-serif;
+	color:chocolate;
+}
