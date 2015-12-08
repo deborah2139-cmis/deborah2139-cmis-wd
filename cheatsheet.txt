@@ -24,3 +24,15 @@ mkdir list and links: make the directory
 cd listandlinks/: inside the public_html file
 <tr colspan="#">: expanding the collumn
 <tr rowspan="#">: expanding rows
+
+
+Final Project:
+- nav, main = side by side
+- nav = width:#px;
+- nav = float:left;
+- main = margin-left:#px;
+- float and margin should be the same (right-right & left-left)
+- img = float:right;
+- footer = clear:both; = not allow things to float to the right/left
+- br.clear = clear:both;
+- br class="clear"
