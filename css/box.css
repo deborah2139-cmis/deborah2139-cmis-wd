@@ -2,10 +2,32 @@ h1{
 	color:turquoise;
 	border-style:double solid double solid;
 	border-color:darkturquoise;
-	border-width:27px;
+	border-width:25px;
 	font-family:"arial black" gadget sans-serif;
+	background-color:mintcream;
 }
 h2{
 	color:deepskyblue;
-	border-style:
+	border-style:double;
+	border-width:5px;
+	width:260px;
+	border-color:dodgerblue;
+}
+ol{
+	font-family:tahoma, geneva, sans-serif;
+}
+main{
+	border-style:solid;
+	border-color:darkturquoise;
+	border-width:8px;
+	background-color:mintcream;
+}
+nav{
+	border-style:solid;
+	border-width:2px;
+	border-color:gray;
+	width:80px;
+}
+body{
+	background-color:aliceblue;
 }
