@@ -15,6 +15,7 @@ h2{
 }
 ol{
 	font-family:tahoma, geneva, sans-serif;
+	color:coral;
 }
 main{
 	border-style:solid;
@@ -26,8 +27,17 @@ nav{
 	border-style:solid;
 	border-width:2px;
 	border-color:gray;
-	width:80px;
+	width:140px;
 }
 body{
 	background-color:aliceblue;
+}
+div p{
+	background-color:yellow;
+}
++p{
+	background-color:blue;
+}
+h1~p{
+	background-color:brown;
 }
