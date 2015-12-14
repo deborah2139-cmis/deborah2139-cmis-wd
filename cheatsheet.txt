@@ -25,6 +25,10 @@ cd listandlinks/: inside the public_html file
 <tr colspan="#">: expanding the collumn
 <tr rowspan="#">: expanding rows
 
+SFTP:
+- mkdir foldername : make folder in sftp
+- rmdir foldername : remove folder in sftp
+- cd foldername -> put filename : uploading file in the folder
 
 Final Project:
 - nav, main = side by side
